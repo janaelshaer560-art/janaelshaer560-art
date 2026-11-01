@@ -1,4 +1,4 @@
-# Hi, I'm Jana Khaled! 👋
+# Hi, I'm Jana Khaled 
 
 ### AI Automation Developer | Front-End Developer | Tech Enthusiast
 
